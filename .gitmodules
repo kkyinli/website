@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/kkyinli/kkyinli.github.io.git
